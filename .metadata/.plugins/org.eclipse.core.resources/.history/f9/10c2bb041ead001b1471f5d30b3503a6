@@ -1,0 +1,15 @@
+package urionline1;
+
+import java.util.Locale;
+
+public class Ex1002 {
+
+	public static void main(String[] args) {
+		Locale.setDefault(Lacale.Us);
+				
+		double n, area, raio;
+		raio =
+
+	}
+
+}
